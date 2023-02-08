@@ -20,3 +20,4 @@ function sum(i){
 }
 const result = sum(5);
 console.log(result);
+
